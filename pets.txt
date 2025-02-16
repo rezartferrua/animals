@@ -2,3 +2,5 @@ dog
 cat
 chicken
 python
+lypi 
+qypi
